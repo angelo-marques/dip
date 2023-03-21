@@ -15,6 +15,9 @@
 .imagem01 {
     background-image: url('img/slide/1.jpg') !important;
 }
+.imagem02 {
+    background-image: url('img/slide/2.jpg') !important;
+}
 /* ==========================================================================
    ** Responsive styles custom rules
    * These rules are ready to be used for either overrides
