@@ -12,15 +12,15 @@
 
 .some-css-selector {font-size:13px;}
 
-
+.imagem01 {
+    background-image: url('img/slide/1.jpg') !important;
+}
 /* ==========================================================================
    ** Responsive styles custom rules
    * These rules are ready to be used for either overrides
    * or just your own custom rules.
    ========================================================================== */
-
-@media only screen and (min-width : 1921px){
-
+@media only screen and (min-width : 1921px) {
 }
 
 @media only screen and (max-width : 1440px){
