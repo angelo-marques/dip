@@ -13,10 +13,10 @@
 .some-css-selector {font-size:13px;}
 
 .imagem01 {
-    background-image: url('img/slide/1.jpg') !important;
+    background-image: url("img/slide/1.jpg") !important;
 }
 .imagem02 {
-    background-image: url('img/slide/2.jpg') !important;
+    background-image: url(img/slide/2.jpg) !important;
 }
 /* ==========================================================================
    ** Responsive styles custom rules
